@@ -1,11 +1,11 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Facial Rekognition Door Lock
+This door lock is able to recognise people that arrive at the front of your door. It will then take a photo and send it to my email. Read more to find out how I did it!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Brandon Seow | Gunn High School | Electrical Engineering | Incoming Freshman
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLW0HkNOrMC8qZqZxLn3sI-kN-HXiIHgTges1-TvnlRdiSTGy7Zn-EtbuyPxzH0x4b7Imc4ZEGDV_Q4CFDynHXA_a1zvsq55BrfTYT5fnvptBY0zsi11vBTt8-nkoNHlSyIhSFxgymXBd7dKOZg3nic=s1428-no?authuser=0)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
