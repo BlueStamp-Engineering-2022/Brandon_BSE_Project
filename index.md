@@ -5,7 +5,7 @@ This door lock is able to recognise people that arrive at the front of your door
 |:--:|:--:|:--:|:--:|
 | Brandon Seow | Gunn High School | Electrical Engineering | Incoming Freshman
 
-![Headstone Image](https://user-images.githubusercontent.com/107577305/174336883-35070428-87c9-47dc-b51b-42cc2f67686e.png)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLW0HkNOrMC8qZqZxLn3sI-kN-HXiIHgTges1-TvnlRdiSTGy7Zn-EtbuyPxzH0x4b7Imc4ZEGDV_Q4CFDynHXA_a1zvsq55BrfTYT5fnvptBY0zsi11vBTt8-nkoNHlSyIhSFxgymXBd7dKOZg3nic=s1428-no?authuser=0)
 
 # Starter Project
 My starter project was the TV-B-GONE. It was basically a device that could turn off most TVs in the world. The device consisted of a battery pack, and a circuit. When the you press the button on the device, the infrared LED lights would start flashing in a pattern that most TVs translate as "OFF." So that is how it works!
