@@ -5,9 +5,13 @@ This door lock is able to recognise people that arrive at the front of your door
 |:--:|:--:|:--:|:--:|
 | Brandon Seow | Gunn High School | Electrical Engineering | Incoming Freshman
 
-![image](https://user-images.githubusercontent.com/107577305/174336883-35070428-87c9-47dc-b51b-42cc2f67686e.png)
+![Headstone Image](https://user-images.githubusercontent.com/107577305/174336883-35070428-87c9-47dc-b51b-42cc2f67686e.png)
 
-  
+# Starter Project
+My starter project was the TV-B-GONE. It was basically a device that could turn off most TVs in the world. The device consisted of a battery pack, and a circuit. When the you press the button on the device, the infrared LED lights would start flashing in a pattern that most TVs translate as "OFF." So that is how it works!
+
+https://youtu.be/-89zfYGwmI8
+
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
