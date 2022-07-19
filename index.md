@@ -1,4 +1,4 @@
-﻿# Facial Rekognition Door Lock
+﻿# Facial Recognition Door Lock
 This door lock is able to recognise people that arrive at the front of your door. It will then take a photo and send it to my email. Read more to find out how I did it!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -19,9 +19,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 # First Milestone
 
-My first milestone was building the hardware of the project. This includes screwing the 3D printed pieces together and implementing the motor so that it can push out and retract the door lock. The servo motor is connected to a wheel that will lock in with the ridges on the lock itself. Some of the problems at this stage were finding the right screws for the project, and knowing exactly where to place each of the parts. Some of my next steps include brushing up the code, and finding a way to connect the arduino with the raspberry pi.
+My first milestone is the hardware of the project. I built the casing for the arduino UNO, and got it to open and close the door. We found that the kit did not include the right parts and screws, so we had to search ourselves for them. We eventually found that the bigger and longer screws helped a lot. One thing I need to change is the Arduino code. My next steps include finishing all the raspberry pi code and completing the project.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone")(Website is "get youtube link" btw)
+[![First Milestone](https://i3.ytimg.com/vi/paAzGf8_qwI/maxresdefault.jpg)]([https://www.youtube.com/watch?v=CaCazFBhYKs](https://www.youtube.com/watch?v=paAzGf8_qwI) "First Milestone")
 
 # Starter Project
 My starter project was the TV-B-GONE. It was basically a device that could turn off most TVs in the world. The device consisted of a battery pack, and a circuit. When the you press the button on the device, the infrared LED lights would start flashing in a pattern that most TVs translate as "OFF." So that is how it works!
