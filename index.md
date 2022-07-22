@@ -3,7 +3,7 @@ This door lock is able to recognise people that arrive at the front of your door
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Brandon Seow | Gunn High School | Electrical Engineering | Incoming Freshman
+| Brandon | Gunn High School | Electrical Engineering | Incoming Freshman
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLW0HkNOrMC8qZqZxLn3sI-kN-HXiIHgTges1-TvnlRdiSTGy7Zn-EtbuyPxzH0x4b7Imc4ZEGDV_Q4CFDynHXA_a1zvsq55BrfTYT5fnvptBY0zsi11vBTt8-nkoNHlSyIhSFxgymXBd7dKOZg3nic=s1428-no?authuser=0)
 
